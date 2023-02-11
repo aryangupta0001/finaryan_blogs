@@ -115,7 +115,7 @@ main{
 
 main > .leftsection{
     border: 2px solid black;
-    background: url(./images/aside_left_1.jpg);
+    background: url(../images/aside_left_1.jpg);
     background-repeat: repeat-y;
     background-size: contain;
     height: 350vh;
@@ -124,7 +124,7 @@ main > .leftsection{
 
 main > .rightsection{
     border: 2px solid black;
-    background: url(./images/aside_right_1.jpg);
+    background: url(../images/aside_right_1.jpg);
     background-repeat: repeat-y;
     background-size: contain;
     height: 350vh;
